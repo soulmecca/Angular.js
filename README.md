@@ -12,7 +12,7 @@
 ```
 
 
-⋅⋅. https://docs.angularjs.org/api/ng
+list of directives: https://docs.angularjs.org/api/ng
 7. Filter: ascending order, descending order.
 8. Angular is open source and modular: https://angularjs.org/
 9. Other resources:<br>
