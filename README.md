@@ -15,7 +15,8 @@ is a JS framework for making a single page application.
 8. Angular is open source and modular: https://angularjs.org/
 9. Other resources:<br>
 angular tutorial: https://docs.angularjs.org/tutorial<BR>
-documentation: https://docs.angularjs.org/guide
+documentation: https://docs.angularjs.org/guide<BR>
+another tutorial: http://www.lynda.com/AngularJS-tutorials/
 
 
 
