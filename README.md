@@ -13,6 +13,10 @@ is a JS framework for making a single page application.
 ⋅⋅. https://docs.angularjs.org/api/ng
 7. Filter 
 8. Angular is open source and modular: https://angularjs.org/
+9. Other resources:
+angular tutorial: https://docs.angularjs.org/tutorial
+documentation: https://docs.angularjs.org/guide
+
 
 
 
