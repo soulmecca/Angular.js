@@ -13,8 +13,8 @@
 
 
 list of directives: https://docs.angularjs.org/api/ng <BR>
-7. Filter: ascending order, descending order.
-8. Angular is open source and modular: https://angularjs.org/
+7. Filter: ascending order, descending order.<BR>
+8. Angular is open source and modular: https://angularjs.org/<BR>
 9. Other resources:<br>
 angular tutorial: https://docs.angularjs.org/tutorial<BR>
 documentation: https://docs.angularjs.org/guide<BR>
