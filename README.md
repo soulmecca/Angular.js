@@ -1,6 +1,7 @@
 ## What is Angular.js 
 
-1. single page applications
+1. framework
+2. single page applications
 2. client side
 3. driven by Javascript
 4. MVC : while Backbone is actually MVx , Angular is a MVC.
